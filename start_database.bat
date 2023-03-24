@@ -1,0 +1,1 @@
+mongod --dbpath="D:\Program Files\MongoDB\Server\6.0\bin"
