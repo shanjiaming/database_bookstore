@@ -2,3 +2,5 @@ be.db
 **/__pycache__
 .DS_Store
 fe/data/book_lx.db
+.pytest_cache
+.idea
